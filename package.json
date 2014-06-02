@@ -1,0 +1,17 @@
+{
+  "name": "hapi-test",
+  "version": "0.0.0",
+  "description": "HapiJS Experiment App",
+  "main": "app.js",
+  "dependencies": {
+    "handlebars": "~2.0.0-alpha.4",
+    "hapi": "~5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Nama",
+  "license": "ISC"
+}
